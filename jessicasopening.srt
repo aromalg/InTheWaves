@@ -1,0 +1,13 @@
+1
+00:00:02,180 --> 00:00:07,320
+Hi, my name is Jessica and I am a radio reporter.
+
+2
+00:00:07,320 --> 00:00:13,170
+In my presentation, I am giving advice on
+the selection and the writing of a story for
+
+3
+00:00:13,170 --> 00:00:14,250
+a news bulletin.
+
