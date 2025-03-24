@@ -1,0 +1,21 @@
+Audacity tips
+Opening a sound track:
+On the menu, click on file, then on open. (shortcut: control + O). Browse for your sound file and click on open.
+Importing a sound track:
+On the menu, click on file, then on import (shortcut: shift + control + I), then on audio. Browse for your sound file and click on open.
+
+Cutting a sound track:
+On the menu, click on the selection tool (shortcut: key F1). Click on the sound file you want to edit and drag the mouse to create a section to cut.  Then click on cut (shortcut: key Ctrl + X).
+
+Moving a sound file in the timeline:
+On the menu, click on the time shift tool (shortcut: key F5). Click on the sound file you want to edit, and move it in the timeline.
+
+Fading in and out:
+On the menu, click on the selection tool. Click on the sound file you want to edit and drag the mouse to highlight a section to cut.  Then, click on effect and fade out. 
+
+Amplifying a sound track:
+Choose the track you want to amplify. Click and drag on the track and highlight the part you want to amplify. Then, on the menu, click on effect and amplify, and choose the quantity needed.
+
+Exporting the final track:
+On the menu, click on file, then on export (shortcut: control + E). Choose the type of file you need and give it a name. Then, click on save and on ok. You can include metadata tags (artist name, track title, album title, track number, year, genre and comments).
+
